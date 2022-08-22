@@ -1,13 +1,19 @@
 Con tus propias palabras completa las siguientes preguntas:
 
-- Pilas(Stacks)
+- Pilas(Stacks): Una pila es una lista ordenada o estructura de datos que permite almacenar y recuperar datos.
+Principalmente tiene dos operaciones, la operación de apilar y operación de desapilar. Cuando se utilizan estas 
+operaciones se está utilizando una lista, que tiene un patrón LIFO (Last in, First out), lo que quiere decir que 
+el último elemento que entra va a ser el primero que sale.
 
-- Queue(colas)
+- Queue(colas): Una queue es una estructura de datos lineal que sigue el principio FIFO (primero en entrar, 
+primero en salir). Eso significa que el objeto insertado primero será el primero en salir, seguido del objeto insertado 
+a continuación.
 
-- enqueue
+- enqueue: Inserta un elemento al final de la queue.
 
-- dequeue
+- dequeue: Elimina el objeto del principio de la queue y lo devuelve, reduciendo así el tamaño de la queue en uno.
 
-- sets
+- sets: Un Set es una colección de elementos sin un orden en particular en donde cada elemento puede aparecer una 
+sola vez. 
 
 - Explica por lo menos 3 instancias de los sets.
